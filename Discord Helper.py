@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'NTkxNjkwMjU3NDczMzM5NDA3.XQ0cqQ.MFEejtb08tQLEm3RLkOg09EPxMA'
+
 
 
 bot = commands.Bot(command_prefix='GB', case_insensitive=True)
